@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Note paper colours (kept for the existing background-colour picker) -->
+    <color name="blue">#DCEBFA</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFF3C4</color>
+    <color name="pink">#FBE0EF</color>
+    <color name="green">#E4F1D7</color>
+    <color name="brown">#FDE4CF</color>
+    <color name="gray">#ECEAE4</color>
+    <color name="black">#000000</color>
+    <color name="red">#F6D5D2</color>
+    <color name="delete_red">#FFD9D6</color>
+    <color name="delete_red_text">#B3261E</color>
+    <color name="none">@color/white</color>
+
+    <!-- New warm, paper-like palette -->
+    <color name="paper">#FFFFFF</color>
+    <color name="settings_bg">#F2F2F7</color>
+    <color name="main_bg">#FFFFFF</color>
+    <color name="search_bg">#E9E9ED</color>
+    <color name="chip_selected">#E4E4E4</color>
+    <color name="fab_yellow">#FFCC00</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="ink">#000000</color>
+    <color name="ink_secondary">#8E8E93</color>
+    <color name="divider">#E5E5EA</color>
+    <color name="accent">#FFCC00</color>
+    <color name="accent_deep">#C99700</color>
+    <color name="accent_soft">#FFF6D6</color>
+    <color name="chip">#F2F2F7</color>
+    <color name="sync_green">#34C759</color>
+    <color name="sync_orange">#DFA21B</color>
+    <color name="sync_gray">#B8B2A8</color>
+
+    <color name="ActionBgColor">@color/paper</color>
+    <color name="ActionTxtColor">@color/ink</color>
+
+    <color name="AccountBgColor">@color/paper</color>
+    <color name="AccountTxtColor">@color/ink</color>
+    <color name="AccountHintColor">@color/ink_secondary</color>
+
+    <color name="EditorMenuBgColor">@color/paper</color>
+    <color name="EditorTxtColor">@color/ink</color>
+    <color name="EditorBgColorDefault">@color/surface</color>
+
+    <color name="ShareActionBgColor">@color/paper</color>
+    <color name="ShareActionTxtColor">@color/ink</color>
+    <color name="ShareActionActionColor">@color/accent</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="colorSurface">@color/surface</color>
+
+    <item name="ColorMode" translatable="false" type="string">light</item>
+</resources>

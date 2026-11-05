@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#2E3E6B</color>
+    <color name="white">#FFFFFFCC</color>
+    <color name="yellow">#D7BD16</color>
+    <color name="pink">#4C2540</color>
+    <color name="green">#2F4F4F</color>
+    <color name="brown">#6D4A2F</color>
+    <color name="gray">#696969</color>
+    <color name="black">#14150E</color>
+    <color name="red">#710D05</color>
+    <color name="none">@color/black</color>
+
+    <color name="ActionBgColor">#2F2F2F</color>
+    <color name="ActionTxtColor">#E8F5E9</color>
+
+    <color name="AccountBgColor">#2F4F4F</color>
+    <color name="AccountTxtColor">@color/ActionTxtColor</color>
+    <color name="AccountHintColor">@color/ActionTxtColor</color>
+
+    <color name="EditorMenuBgColor">#3C3C3A</color>
+    <color name="EditorTxtColor">@color/ActionTxtColor</color>
+    <color name="EditorBgColorDefault">@color/none</color>
+
+    <color name="ShareActionBgColor">#2F2F2F</color>
+    <color name="ShareActionTxtColor">@color/ActionTxtColor</color>
+    <color name="ShareActionActionColor">#2F7F7F</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="colorSurface">#3C3C3A</color>
+
+    <item name="ColorMode" translatable="false" type="string">dark</item>>
+</resources>
