@@ -1,0 +1,54 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="外观">
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="EditorBgColorDefault"
+            app:summary="@string/EditorBgColorDefault_sum"
+            app:title="@string/EditorBgColorDefault" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="EditorTxtColor"
+            app:summary="@string/EditorTxtColor_sum"
+            app:title="@string/EditorTxtColor" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="备份">
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="make_archive"
+            app:summary="@string/CreateBackup_sum"
+            app:title="@string/make_archive" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="restore_archive"
+            app:summary="@string/RestoreBackup_sum"
+            app:title="@string/restore_archive" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="其他">
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="send_debug_report"
+            app:title="@string/send_debug_report" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="about"
+            app:title="@string/about" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
