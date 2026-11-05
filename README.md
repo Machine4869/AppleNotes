@@ -10,24 +10,13 @@
 
 从 163 邮箱的 `Notes` 同步到 Android，纯文本写作，无后端、无广告、无跟踪。
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="docs/screenshots/home.jpg" width="100%" alt="首页：备忘录列表和同步状态">
-    </td>
-    <td width="33%" align="center">
-      <img src="docs/screenshots/editor.jpg" width="100%" alt="编辑页：纯文本标题和正文">
-    </td>
-    <td width="33%" align="center">
-      <img src="docs/screenshots/account.jpg" width="100%" alt="账户页：163 邮箱和同步设置">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">首页 · 同步状态与搜索</td>
-    <td align="center">编辑 · 纯文本写作</td>
-    <td align="center">账户 · 163 邮箱配置</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="docs/screenshots/home.jpg"><img src="docs/screenshots/home.jpg" width="31%" alt="首页：备忘录列表和同步状态"></a>
+  <a href="docs/screenshots/editor.jpg"><img src="docs/screenshots/editor.jpg" width="31%" alt="编辑页：纯文本标题和正文"></a>
+  <a href="docs/screenshots/account.jpg"><img src="docs/screenshots/account.jpg" width="31%" alt="账户页：163 邮箱和同步设置"></a>
+</p>
+
+<p align="center"><sub>首页 · 同步状态与搜索　　·　　编辑 · 纯文本写作　　·　　账户 · 163 邮箱配置</sub></p>
 
 下载：[GitHub Releases](https://github.com/Machine4869/AppleNotes/releases)
 
